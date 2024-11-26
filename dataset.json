@@ -1,0 +1,179 @@
+{
+  "test_credentialsCO":[
+
+    {
+      "EMAIL"	: "sample_username@email.com",
+      "PW"		: "mZZAKjYM"
+    },
+    {
+      "EMAIL"	: "itds.sqad@gmail.com",
+      "PW"		: "sample_pass"
+    },
+    {
+      "EMAIL"	: "pv.mendoza@psa.gov.ph",
+      "PW"		: "password"
+    }
+  ],
+
+  "N_SUPERVISOR" : "Eugene CO-SUP Nuada CO-CUP",
+  "POSITION"     : "CO - Supervisor",
+  "LOCATION"     : "(Central Office)",
+  "DASHBOARD"    : "DASHBOARD",
+  "RECEIPT_and_CONTROL"     : "RECEIPT & CONTROL",
+  "DATA_ENTRY"   : "DATA ENTRY",
+  "UTILITIES"    : "UTILITIES",
+  "LOGOUT"       : "LOGOUT",
+  "NATIONAL"     : "National",
+  "REGION"       : "Regional",
+  "PROVINCE"     : "Provincial",
+  "Nat_GRAP_SUMMARY" : "MISSI Status Summary (National)",
+  "Nat_GRAP_Response_Rate_Samp" : "Response Rate by Sample Type",
+  "Nat_GRAP_Response_Rate_Ind" : "Response Rate by Industry",
+  "Reg_GRAP_Status_MISSI" : "MISSI Regional Status",
+  "Prov_GRAP_Status_MISSI" : "MISSI Provincial Status",
+  "Reg_GRAP_Status_PPS" : "PPS Regional Status",
+  "Prov_GRAP_Status_PPS" : "PPS Provincial Status",
+
+  "WORK_ASS"     : "WORKLOAD ASSIGNMENT",
+  "VIEW_WORK"    : "VIEW WORKLOAD",
+  "CAWI_REG"     : "CAWI REGISTRATION",
+  "WORK_REF"     : "WORKLOAD REFERRAL",
+
+  "YR"           : "Year:",
+  "OFF"          : "Office:",
+  "PROV"         : "Province:",
+  "MUN"          : "Municipality:",
+  "SURVEY"       : "Survey:",
+
+  "PG"           : "Per page",
+  "SRH"          : "Search",
+  "test1"        :[{"SRCH"          : "581333570015C1"}],
+
+  "ASS"          : "Assigned/Not Assigned",
+  "M"            : "Month:",
+  "SRC_TXT"      : "211828530512C6",
+  "SRC_TXT_PO"   : "581327831912C7",
+  "NAME"         : "sample name",
+  "CONT"         : "09317788890",
+
+
+
+
+  "test_credentialsCO_Staff":[
+
+    {
+      "EMAIL"	: "sample_username@email.com",
+      "PW"		: "zhQaguHW"
+    },
+    {
+      "EMAIL"	: "itds.sqad@gmail.com",
+      "PW"		: "sample_pass"
+    },
+    {
+      "EMAIL"	: "killazawa@yahoo.com",
+      "PW"		: "uuSm9nXI"
+    }
+  ],
+  "N_SUPERVISORCO_STAFF" : "killa zawa",
+  "POSITION_CO_STAFF"    : "CO - Staff",
+  "LOCATION_CO_STAFF"    : "(Central Office)",
+
+
+
+
+  "test_credentials_RSSO":[
+    {
+      "EMAIL"	: "sample_username@email.com",
+      "PW"		: "zhQaguHW"
+    },
+    {
+      "EMAIL"	: "itds.sqad@gmail.com",
+      "PW"		: "sample_pass"
+    },
+    {
+      "EMAIL"	: "eugenenuada063@gmail.com",
+      "PW"		: "Raygun_890!"
+    }
+  ],
+  "N_SUPERVISOR_rsso": "eugene_RSSO nuada_RSSO",
+  "POSITION_rsso"    : "RSSO",
+  "LOCATION_rsso"    : "(Region IV-A (CALABARZON))",
+
+
+
+
+
+
+  "test_credentialsPO":[
+
+    {
+      "EMAIL"	: "sample_username@email.com",
+      "PW"		: "zhQaguHW"
+    },
+    {
+      "EMAIL"	: "eugenenuada06@gmail.com",
+      "PW"		: "PglPu5yv"
+    }
+  ],
+
+  "Fname_Update_PO"  : "SQAD",
+  "Fname_Update_PO2" : "SQADs",
+  "Mname_Update_PO"  : "",
+  "Mname_Update_PO2" : "Dela Cruz",
+  "Lname_Update_PO"  : "TESTER",
+  "Lname_Update_PO2" : "TESTERS",
+
+  "N_SUPERVISORPO_STAFF" : "sqad_staff eugene",
+  "POSITION_PO_STAFF" : "PSO - Staff",
+  "LOCATION_PO_STAFF" : "(Rizal)",
+
+
+
+  "test_credentialsPO_Staff":[
+
+    {
+      "EMAIL"	: "sample_username@email.com",
+      "PW"		: "zhQaguHW"
+    },
+    {
+      "EMAIL"	: "itds.sqad@gmail.com",
+      "PW"		: "sample_pass"
+    },
+
+    {
+      "EMAIL"	: "eugenenuada061@gmail.com",
+      "PW"		: "K1j9LkXN"
+    } ],
+
+  "N_SUPERVISOR_PO" : "sqad eugene",
+  "N_SUPERVISOR_PO1" : "SQADs TESTERS",
+  "POSITION_PO"     : "PO - Supervisor",
+  "LOCATION_PO"     : "(Rizal)",
+  "C_PERSON"        : "John Smith",
+  "C_PERSON2"       : "Eugene Nuada",
+  "C_NUMBER"        : "09123456799",
+  "C_NUMBER2"       : "09326565455",
+  "E_ADDRESS"       : "killazawa@yahoo.com",
+  "E_ADDRESS2"      : "eugenenuada061@gmail.com",
+
+  "ECN"             : "580200308796D9",
+  "ECN_CO"          : "020200617705D7",
+  "ECN_PO_Staff"    : "580528093714C0",
+  "ECN_PO"          : "580235749218C2",
+  "ECN_DATA_ENTRY_PO" : "580200211796D3",
+  "ECN1"  : "102827466412C4",
+
+  "F_NAME"          : "Sample Fname",
+  "M_NAME"          : "Sample Mname",
+  "L_NAME"          : "Sample Lname",
+  "EMAIL"           : "Sample@email.com",
+  "EMP_ID"          : "334112334",
+  "SEARCH"          : "SQAD",
+  "SEARCH_CO_Staff" : "Sarra",
+
+
+  "MISSI_ENTRY" : "10000"
+
+
+
+}
